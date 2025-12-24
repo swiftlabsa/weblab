@@ -40,7 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+<<<<<<< HEAD
     'core'
+=======
+    'core',
+    'Whatapp',
+>>>>>>> ff16cdc (new app and webhook setup)
 ]
 
 MIDDLEWARE = [
